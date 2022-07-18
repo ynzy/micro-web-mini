@@ -1,6 +1,6 @@
 {
   "name": "micro-web-mini",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "这是一个实验的微前端框架，请不要下载",
   "main": "index.js",
   "scripts": {
